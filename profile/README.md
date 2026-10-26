@@ -8,6 +8,6 @@ Projects:
 
 
 | NAME | Website | Status |
-| :--- | :--- | :---: |
+| :---: | :---: | :---: |
 | XLS | https://xls-foundation.vercel.app/ | Active |
 | YComp | https://xls-foundation.vercel.app/about/ycomp | Discontinued |
