@@ -8,10 +8,10 @@
 
 | Name | Repository | Status |
 |:---:|:---:|:---:|
-| XLS | [Source code](https://github.com/XLS-Foundation/XLS) | Active |
+| Xylum | [Source code](https://github.com/XLS-Foundation/Xylum) | Active |
 | Xay11 | [Source code](https://github.com/XLS-Foundation/Xay11) | Active |
 | YComp | [Source code](https://github.com/XLS-Foundation/YComp) | Archived |
 
 ---
 
-More information is available on our [official website](https://xls-foundation.vercel.app/).
+More information is available on our [official website](https://xylum-foundation.vercel.app/).
