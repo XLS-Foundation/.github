@@ -9,6 +9,7 @@
 | Name | Repository | Status |
 |:---:|:---:|:---:|
 | XLS | [Source code](https://github.com/XLS-Foundation/XLS) | Active |
+| Xay11 | [Source code](https://github.com/XLS-Foundation/Xay11) | Active |
 | YComp | [Source code](https://github.com/XLS-Foundation/YComp) | Archived |
 
 ---
