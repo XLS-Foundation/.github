@@ -4,7 +4,7 @@
 
 ---
 
-## Projects
+### Projects
 
 | Name | Repository | Status |
 |:---:|:---:|:---:|
