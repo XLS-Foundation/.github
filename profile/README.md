@@ -7,7 +7,7 @@
 Projects:
 
 
-| NAME | Website | Status |
+| Name | Website | Status |
 | :---: | :---: | :---: |
 | XLS | https://xls-foundation.vercel.app/ | Active |
 | YComp | Old link: https://yorg.netlify.app/ | Discontinued |
