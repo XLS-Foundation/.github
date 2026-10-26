@@ -9,5 +9,5 @@ Projects:
 
 | Name | Repo | Status |
 | :---: | :---: | :---: |
-| XLS | [XLS](https://github.com/XLS-Foundation/XLS) | Active |
-| YComp | [YComp](https://github.com/XLS-Foundation/YComp) | Discontinued |
+| XLS | https://github.com/XLS-Foundation/XLS | Active |
+| YComp | https://github.com/XLS-Foundation/YComp | Discontinued |
