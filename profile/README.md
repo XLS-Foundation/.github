@@ -8,8 +8,8 @@
 
 | Name | Repository | Status |
 |:---:|:---:|:---:|
-| [XLS](https://github.com/XLS-Foundation/XLS) | [Source code](https://github.com/XLS-Foundation/XLS) | Active |
-| [YComp](https://github.com/XLS-Foundation/YComp) | [Source code](https://github.com/XLS-Foundation/YComp) | Archived |
+| XLS | [Source code](https://github.com/XLS-Foundation/XLS) | Active |
+| YComp | [Source code](https://github.com/XLS-Foundation/YComp) | Archived |
 
 ---
 
