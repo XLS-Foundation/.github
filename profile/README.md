@@ -11,3 +11,7 @@ Projects:
 | :---: | :---: | :---: |
 | XLS | https://github.com/XLS-Foundation/XLS | Active |
 | YComp | https://github.com/XLS-Foundation/YComp | Discontinued |
+
+---
+
+More information on our [Website](https://xls-foundation.vercel.app/).
