@@ -8,9 +8,9 @@
 
 | Name | Repository | Status |
 |:---:|:---:|:---:|
-| Xylum | [Source code](https://github.com/XLS-Foundation/Xylum) | Active |
-| Xay11 | [Source code](https://github.com/XLS-Foundation/Xay11) | Active |
-| YComp | [Source code](https://github.com/XLS-Foundation/YComp) | Archived |
+| Xylum | [Source code](https://github.com/Xylum-Foundation/Xylum) | Active |
+| Xay11 | [Source code](https://github.com/Xylum-Foundation/Xay11) | Active |
+| YComp | [Source code](https://github.com/Xylum-Foundation/YComp) | Archived |
 
 ---
 
